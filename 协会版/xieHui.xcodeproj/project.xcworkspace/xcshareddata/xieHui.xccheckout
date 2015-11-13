@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>EEFE6AE0-A340-41E3-8F66-E30953D3E228</string>
+	<key>IDESourceControlProjectName</key>
+	<string>xieHui</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>c844c080-9957-314f-a0aa-fe75a8629fba</key>
+		<string>https://192.168.1.53/svn/HH_Iphone</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>XiehuiTempleate/develop/xieHui.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>c844c080-9957-314f-a0aa-fe75a8629fba</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>c844c080-9957-314f-a0aa-fe75a8629fba</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>c844c080-9957-314f-a0aa-fe75a8629fba</string>
+			<key>IDESourceControlWCCName</key>
+			<string>new_code</string>
+		</dict>
+	</array>
+</dict>
+</plist>
